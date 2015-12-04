@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/VideoGen.parent/VideoGen/VideoGen.iml" filepath="$PROJECT_DIR$/VideoGen.parent/VideoGen/VideoGen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VideoGen.parent/VideoGen.ide/VideoGen.ide.iml" filepath="$PROJECT_DIR$/VideoGen.parent/VideoGen.ide/VideoGen.ide.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VideoGen.parent/VideoGen.idea/VideoGen.idea.iml" filepath="$PROJECT_DIR$/VideoGen.parent/VideoGen.idea/VideoGen.idea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VideoGen.parent/VideoGen.parent.iml" filepath="$PROJECT_DIR$/VideoGen.parent/VideoGen.parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VideoGen.parent/VideoGen.web/VideoGen.web.iml" filepath="$PROJECT_DIR$/VideoGen.parent/VideoGen.web/VideoGen.web.iml" />
+    </modules>
+  </component>
+</project>

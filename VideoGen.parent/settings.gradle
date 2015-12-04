@@ -1,0 +1,3 @@
+include 'VideoGen'
+include 'VideoGen.ide'
+include 'VideoGen.idea'
